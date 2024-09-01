@@ -1,4 +1,4 @@
-# Acer-2353.TWD--StockPrice-Analysis-Using-Tableau
+# Acer(2353.TWD) StockPrice Analysis Using Tableau
 Acer Stock Data Dashboard
 =========================
 
